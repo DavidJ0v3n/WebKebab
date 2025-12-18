@@ -24,4 +24,4 @@ Para el desarrollo de este proyecto hemos utilizado:
 
 ## 📸 Vista previa
 
-> ![ Logotipo ](C:\Users\David\Desktop\GIT\WebKebab\img\logo.PNG)
+> ![ Logotipo ](C:\Users\David\Desktop\GIT\WebKebab\images\logo.PNG)
